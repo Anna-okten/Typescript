@@ -1,0 +1,40 @@
+// task 1
+var word1 = "hello";
+console.log(word1);
+var word2 = "owu";
+console.log(word2);
+var word3 = 'com';
+console.log(word3);
+var word4 = 'ua';
+console.log(word4);
+var num1 = 1;
+console.log(num1);
+var num2 = 10;
+console.log(num2);
+var num3 = -999;
+console.log(num3);
+var num4 = 123;
+console.log(num4);
+var num5 = 3.14;
+console.log(num5);
+var num6 = 2.7;
+console.log(num6);
+var num7 = 16;
+console.log(num7);
+var boolean1 = true;
+console.log(boolean1);
+var boolean2 = false;
+console.log(boolean2);
+// // task 2
+var firstName = 'Anna';
+var middleName = 'Valerievna';
+var lastName = 'Domeshkina';
+var person = "".concat(firstName, " ").concat(middleName, " ").concat(lastName);
+console.log(person);
+// // task 3
+var a = 100;
+console.log(typeof a);
+var b = '100';
+console.log(typeof b);
+var c = true;
+console.log(typeof c);
